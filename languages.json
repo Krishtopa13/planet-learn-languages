@@ -1,0 +1,22 @@
+{
+  "en": {"name": "English", "flag": "🇬🇧", "tier": 3},
+  "es": {"name": "Español", "flag": "🇪🇸", "tier": 3},
+  "fr": {"name": "Français", "flag": "🇫🇷", "tier": 3},
+  "de": {"name": "Deutsch", "flag": "🇩🇪", "tier": 3},
+  "uk": {"name": "Українська", "flag": "🇺🇦", "tier": 2},
+  "ru": {"name": "Русский", "flag": "🇷🇺", "tier": 2},
+  "pt": {"name": "Português", "flag": "🇵🇹", "tier": 2},
+  "tr": {"name": "Türkçe", "flag": "🇹🇷", "tier": 2},
+  "ar": {"name": "العربية", "flag": "🇸🇦", "tier": 2},
+  "hi": {"name": "हिन्दी", "flag": "🇮🇳", "tier": 2},
+  "bn": {"name": "বাংলা", "flag": "🇧🇩", "tier": 1},
+  "sw": {"name": "Kiswahili", "flag": "🌍", "tier": 1},
+  "ha": {"name": "Hausa", "flag": "🇳🇬", "tier": 1},
+  "yo": {"name": "Yoruba", "flag": "🇳🇬", "tier": 1},
+  "tw": {"name": "Twi", "flag": "🇬🇭", "tier": 1},
+  "am": {"name": "አማርኛ", "flag": "🇪🇹", "tier": 1},
+  "ln": {"name": "Lingala", "flag": "🇨🇩", "tier": 1},
+  "zh": {"name": "中文", "flag": "🇨🇳", "tier": 3},
+  "ja": {"name": "日本語", "flag": "🇯🇵", "tier": 3},
+  "ko": {"name": "한국어", "flag": "🇰🇷", "tier": 3}
+}
